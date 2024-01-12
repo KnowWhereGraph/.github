@@ -1,4 +1,4 @@
-<center><img src="../images/logo.png"></center>
+<center><img src="https://github.com/KnowWhereGraph/.github/blob/29d0dc2fe0363b404dd210e92152c3418588b556/images/logo.png?raw=true"></center>
 
 ## Welcome
 
@@ -56,4 +56,5 @@ KnowWhereGraph is open source! With any project questions, suggestions, or comme
 Funded by the National Science Foundation.
 Convergence Accelerated Program Grant OIA - 2033521
 
-<img src="../images/NSF.svg">
+<img src="https://raw.githubusercontent.com/KnowWhereGraph/.github/29d0dc2fe0363b404dd210e92152c3418588b556/images/NSF.svg">
+
