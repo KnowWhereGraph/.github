@@ -1,4 +1,4 @@
-<center><img src="../images/logo.png"></center>
+<center><img src="https://github.com/KnowWhereGraph/.github/blob/main/images/logo.png?raw=true"></center>
 
 ## Welcome
 
